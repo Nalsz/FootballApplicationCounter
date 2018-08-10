@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Football Application Counter</string>
+    <string name="header_img">header image</string>
+    <string name="chelsea_image">chelsea image</string>
+    <string name="man_u">manchester united image</string>
+    <string name="chelsea_score">0</string>
+    <string name="man_u_score">0</string>
+    <string name="dash">:</string>
+    <string name="chelsea_yellow_count">0</string>
+    <string name="chelsea_red_count">0</string>
+    <string name="manu_yellow_count">0</string>
+    <string name="manu_red_count">0</string>
+    <string name="chelsea_goal">GOAL</string>
+    <string name="manu_goal">GOAL</string>
+    <string name="reset">RESET</string>
+    <string name="match">MATCH CENTER</string>
+    <string name="act_i">action image</string>
+    <string name="act_t">action type</string>
+</resources>
